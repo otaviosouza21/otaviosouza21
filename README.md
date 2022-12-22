@@ -1,5 +1,5 @@
 # Ola! Eu sou o Otavio ✌️
-### 🖥️ Estudante de TI 
+### 🖥️ Estudante de  ADS
 ### 📖 Estou em constante aprendizado 
 ### #️⃣ Desenvolvedor Front-End
 ### 👨‍💻 Aberto a novos projetos
