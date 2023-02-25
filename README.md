@@ -25,4 +25,12 @@ Tecnologias dos meus projetos #️⃣
 <img aling="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 </div>
 
+#
+## Meus principais Projetos
+
+| Projeto | Descrição | Repositorio | Pagina |
+|----------|----------|----------|----------|
+| Bikcraft | Site de vendas de Bicicletas | [Link](https://github.com/bikraft)| [Link](https://otaviosouza21.github.io/bikraft/) |
+| Lista de Tarefas | Lista de tarefas dinamico | [Link](https://github.com/otaviosouza21/lista-de-Tarefas)| [Link](https://otaviosouza21.github.io/lista-de-Tarefas/) |
+| Orkut | Rede social nostalgica Orkut | [Link](https://github.com/otaviosouza21/orkut)| [Link](https://otaviosouza21.github.io/orkut/) |
 
