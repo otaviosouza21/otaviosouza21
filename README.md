@@ -34,3 +34,5 @@ Tecnologias dos meus projetos #️⃣
 | Lista de Tarefas | Lista de tarefas dinamico | [Link](https://github.com/otaviosouza21/lista-de-Tarefas)| [Link](https://otaviosouza21.github.io/lista-de-Tarefas/) |
 | Orkut | Rede social nostalgica Orkut | [Link](https://github.com/otaviosouza21/orkut)| [Link](https://otaviosouza21.github.io/orkut/) |
 | News Page | Pagina principal de noticias | [Link](https://github.com/otaviosouza21/Pagina-de-Noticias)| [Link](https://otaviosouza21.github.io/Pagina-de-Noticias/) |
+| Animais Fantasticos | Site pratico de Javascript | [Link](https://github.com/otaviosouza21/Animais-Fantasticos)| [Link](https://otaviosouza21.github.io/Animais-Fantasticos/) |
+| Cartão Interativo | Cartão interativo com Javascript | [Link](https://github.com/otaviosouza21/cartao-de-credito-interativo)| [Link](https://otaviosouza21.github.io/cartao-de-credito-interativo/) |
