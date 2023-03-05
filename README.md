@@ -1,5 +1,5 @@
 # Ola! Eu sou o Otavio ✌️
-### 🖥️ Estudante de  ADS
+### 🖥️ Desenvolvedor Web com foco em Frontend
 ### 📖 Estou em constante aprendizado 
 ### #️⃣ Desenvolvedor Front-End
 ### 👨‍💻 Aberto a novos projetos
