@@ -30,7 +30,7 @@ Tecnologias dos meus projetos #️⃣
 
 | Projeto | Descrição | Repositorio | Pagina |
 |----------|----------|----------|----------|
-| Bikcraft | Site de vendas de Bicicletas | [Link](https://github.com/otaviosouza21/bikcraft)| [Link](https://otaviosouza21.github.io/bikraft/) |
+| Bikcraft | Site de vendas de Bicicletas | [Link](https://github.com/otaviosouza21/bikcraft)| [Link](https://otaviosouza21.github.io/bikcraft/) |
 | Lista de Tarefas | Lista de tarefas dinamico | [Link](https://github.com/otaviosouza21/lista-de-Tarefas)| [Link](https://otaviosouza21.github.io/lista-de-Tarefas/) |
 | Orkut | Rede social nostalgica Orkut | [Link](https://github.com/otaviosouza21/orkut)| [Link](https://otaviosouza21.github.io/orkut/) |
 | News Page | Pagina principal de noticias | [Link](https://github.com/otaviosouza21/Pagina-de-Noticias)| [Link](https://otaviosouza21.github.io/Pagina-de-Noticias/) |
