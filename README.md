@@ -1,5 +1,5 @@
 # Ola! Eu sou o Otavio ✌️
-### 🖥️ Desenvolvedor Web com foco em Frontend
+### 🖥️ Desenvolvedor Frontend
 ### 📖 Estou em constante aprendizado 
 ### #️⃣ HTML, CSS, Javascrip
 ### 👨‍💻 Aberto a novos projetos
