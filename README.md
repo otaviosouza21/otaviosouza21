@@ -30,7 +30,7 @@ Tecnologias dos meus projetos #️⃣
 | Projeto | Descrição | Repositorio | Deploy |
 |----------|----------|----------|----------|
 | Apurador de comissões | Sistema de calculos e relatórios para apuração de comissão | [Link](https://github.com/otaviosouza21/apurar_comissao)| [Link](https://otaviosouza21.github.io/apurar_comissao/) |
-| Gerador de Etiquetas | Sistema de geração de etiquetas de produtos e pedidos | [Link](https://github.com/otaviosouza21/Gerador-de-Etiquetas)| [Link](https://otaviosouza21.github.io/Gerador-de-Etiquetass/) |
+| Gerador de Etiquetas | Sistema de geração de etiquetas de produtos e pedidos | [Link](https://github.com/otaviosouza21/Gerador-de-Etiquetas)| [Link](https://otaviosouza21.github.io/Gerador-de-Etiquetas/) |
 | Bikcraft | Site moderno de vendas de Bicicletas | [Link](https://github.com/otaviosouza21/bikcraft)| [Link](https://otaviosouza21.github.io/bikcraft/) |
 | Dogs | Rede social de Pets construida em React.js | [Link](https://github.com/otaviosouza21/app-dogs)| [Link](https://otaviosouza21.github.io/app-dogs/) |
 | Lista de Tarefas | Lista de tarefas dinamico criada em Javascript | [Link](https://github.com/otaviosouza21/lista-de-Tarefas)| [Link](https://otaviosouza21.github.io/lista-de-Tarefas/) |
